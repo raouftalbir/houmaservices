@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="200" viewBox="0 0 300 200">
+  <!-- Fond -->
+  <rect width="300" height="200" fill="#0F1923" />
+  
+  <!-- Logo Valorant officiel -->
+  <g transform="translate(75, 50) scale(0.5)">
+    <path d="M 300,0 L 150,150 L 0,0 L 0,150 L 150,300 L 300,150 L 300,0 Z" fill="#FF4655" />
+  </g>
+  
+  <!-- Texte "VALORANT" -->
+  <text x="150" y="150" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="white" text-anchor="middle">VALORANT</text>
+</svg>

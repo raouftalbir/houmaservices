@@ -1,0 +1,13 @@
+Ce dossier contiendra les images du site web.
+
+Vous devrez ajouter les images suivantes :
+- hero-bg.jpg (image d'arrière-plan pour la section héro)
+- netflix.jpg
+- disney.jpg
+- valorant.jpg
+- fortnite.jpg
+- spotify.jpg
+- apple-music.jpg
+- user1.jpg, user2.jpg, user3.jpg (photos des témoignages)
+
+Vous pouvez utiliser des images libres de droits ou créer vos propres images.

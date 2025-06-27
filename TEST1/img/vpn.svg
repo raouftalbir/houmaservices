@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="200" viewBox="0 0 300 200">
+  <!-- Fond -->
+  <rect width="300" height="200" fill="#2C3E50" />
+  
+  <!-- Logo VPN stylisé -->
+  <g transform="translate(75, 50)">
+    <!-- Bouclier -->
+    <path d="M75,10 L135,10 C140,10 145,15 145,20 L145,70 C145,110 75,140 75,140 C75,140 5,110 5,70 L5,20 C5,15 10,10 15,10 L75,10 Z" fill="#3498DB" />
+    
+    <!-- Contour du bouclier -->
+    <path d="M75,15 L130,15 C135,15 140,20 140,25 L140,70 C140,105 75,130 75,130 C75,130 10,105 10,70 L10,25 C10,20 15,15 20,15 L75,15 Z" fill="#2980B9" />
+    
+    <!-- Cadenas -->
+    <rect x="55" y="50" width="40" height="30" rx="5" ry="5" fill="#ECF0F1" />
+    <rect x="65" y="35" width="20" height="25" rx="10" ry="10" stroke="#ECF0F1" stroke-width="5" fill="none" />
+    <circle cx="75" cy="65" r="5" fill="#2C3E50" />
+    <rect x="73" y="65" width="4" height="10" fill="#2C3E50" />
+  </g>
+  
+  <!-- Texte "VPN" -->
+  <text x="150" y="150" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="white" text-anchor="middle">PREMIUM</text>
+</svg>
